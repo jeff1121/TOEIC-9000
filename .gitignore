@@ -26,3 +26,7 @@ dist-ssr
 # CLI Metadata
 .antigravitycli
 
+# Swift Binaries
+src-swift/TOEICApp
+
+
